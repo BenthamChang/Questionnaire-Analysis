@@ -13,7 +13,7 @@ https://benthamchang.github.io/Questionnaire-Analysis/Questionnaire%20Analysis.h
 2. Cross Analysis
     - Chi-Square Test of Independence
     - Correspondence Analysis
-3. Text Mining - Keywords Analysis
+3. Keywords Analysis (Text Mining)
     - Hidden Markov Model (Word Frequency Counting)
     - Word2Vec
 

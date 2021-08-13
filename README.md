@@ -4,7 +4,7 @@ https://benthamchang.github.io/Questionnaire-Analysis/Questionnaire%20Analysis.h
 
 ## Business Goal
  
-1. Provide suggestions to NTHU's library based on the feedback from readers.
+Provide suggestions to NTHU's library based on the feedback from readers.
 
 ## Analysis
 
@@ -19,11 +19,10 @@ https://benthamchang.github.io/Questionnaire-Analysis/Questionnaire%20Analysis.h
 
 ## Conclusion
 
-1. Electronic resources:
-    - User Interface is inconvenient
-2. Library pros:
+1. Library pros:
     - Spacious space / comfortable environment / abundant resource
-3. Library cons:
+2. Library cons:
     - It's hot inside, the air conditioner should be turned stronger.
     - Some tables and chairs should be repaired due to unstable.
     - Opening hours of night reading area should be longer.
+    - User Interface of electronic resources is inconvenient.

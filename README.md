@@ -23,6 +23,6 @@ Provide suggestions to NTHU's library based on the feedback from readers.
     - Spacious space / comfortable environment / abundant resource
 2. Library cons:
     - It's hot inside, the air conditioner should be turned stronger.
-    - Some tables and chairs should be repaired due to unstable.
+    - Some wobbly tables and chairs should be repaired.
     - Opening hours of night reading area should be longer.
     - User Interface of electronic resources is inconvenient.

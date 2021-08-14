@@ -4,7 +4,7 @@ https://benthamchang.github.io/Questionnaire-Analysis/Questionnaire%20Analysis.h
 
 ## Business Goal
  
-Provide suggestions to NTHU's library based on the feedback from readers.
+Provide suggestions to NTHU library based on the feedback from readers.
 
 ## Analysis
 
